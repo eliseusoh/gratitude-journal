@@ -52,4 +52,5 @@ npm start
 - Your entry appears at the top
 - Entries are saved automatically
 
+
 🙏 Enjoy your gratitude journey!
