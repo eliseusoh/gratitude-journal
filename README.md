@@ -1,6 +1,9 @@
 ## 🌟 Gratitude Journal
 A simple React app to help you track what you’re grateful for, every day!
 
+<img width="1917" height="929" alt="image" src="https://github.com/user-attachments/assets/9692115f-6178-483b-a58d-4441eba2afaa" />
+
+
 ---
 
 ## 🚀 Features
